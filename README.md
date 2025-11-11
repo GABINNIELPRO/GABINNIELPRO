@@ -33,7 +33,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/gabin-niel" target="blank">
+  <a href="[https://linkedin.com/in/gabin-niel](https://www.linkedin.com/in/gabin-niel-749062233/)" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="mailto:gabin.niel.pro@gmail.com" target="blank">
