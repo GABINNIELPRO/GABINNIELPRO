@@ -46,10 +46,6 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
-### 🧰 Languages & Tools  
-
 ### 🧰 Languages & Tools  
 
 <p align="center">
