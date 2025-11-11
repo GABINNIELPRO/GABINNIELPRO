@@ -57,8 +57,6 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/></a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow"/></a>
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt"/></a>
-
-  <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch"/></a>
