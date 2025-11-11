@@ -48,6 +48,8 @@
 
 ### 🛠️ Languages & Tools
 
+### 🧰 Languages & Tools  
+
 <p align="center">
   <!-- Cloud & Infrastructure -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/></a>
@@ -72,6 +74,7 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/></a>
+  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xgboost-colored.svg" width="45" height="45" alt="XGBoost"/></a>
 
   <!-- DevOps & Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/></a>
