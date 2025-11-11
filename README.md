@@ -54,8 +54,8 @@
   <!-- Cloud & Infrastructure -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/><
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow"/><
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
