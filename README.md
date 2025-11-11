@@ -59,31 +59,21 @@
   <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/></a>
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="45" height="45" alt="Airflow"/></a>
   <a href="https://www.getdbt.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt"/></a>
-
-  <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/></a>
-
-  <!-- Programming & Data -->
   <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/></a>
   <a href="https://scipy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="45" height="45" alt="SciPy"/></a>
-
-  <!-- Machine Learning -->
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/></a>
   <a href="https://xgboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="45" height="45" alt="XGBoost"/></a>
-
-  <!-- DevOps & Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VSCode"/></a>
-
-  <!-- Web & APIs -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/></a>
