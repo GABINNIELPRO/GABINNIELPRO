@@ -7,7 +7,7 @@
   <a href="https://github.com/GABINNIELPRO" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=GABINNIELPRO&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://linkedin.com/in/gabin-niel" target="_blank">
+  <a href="https://linkedin.com/in/gabin-niel](https://www.linkedin.com/in/gabin-niel-749062233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabin.niel.pro@gmail.com">
