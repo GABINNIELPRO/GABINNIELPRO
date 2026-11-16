@@ -49,16 +49,16 @@
 
 <p align="center">
   <!-- Cloud & Infrastructure -->
+  <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
+  <a href="https://sql.org" target="_blank"><img src="https://www.stat4decision.com/wp-content/uploads/2022/04/SQL-logo.png" width="45" height="45" alt="SQL"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F02gceubzd44x42j47y29.png" width="45" height="45" alt="Airflow"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch"/></a>
+    <a href="https://airflow.apache.org/" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F02gceubzd44x42j47y29.png" width="45" height="45" alt="Airflow"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8VSHrabIKeH6zlFnh2D8AD2NIz3OSRII8VLVG4S0Ubg&s=10" width="45" height="45" alt="Spark"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXK0d58PPjOd_bJhjfGtoLkNIx4wKFNPfPAVzKTSgU2w&s=10" width="45" height="45" alt="Kafka"/></a>
-  <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
-  <a href="https://sql.org" target="_blank"><img src="https://www.stat4decision.com/wp-content/uploads/2022/04/SQL-logo.png" width="45" height="45" alt="SQL"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"/></a>
