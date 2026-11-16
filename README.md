@@ -51,7 +51,7 @@
   <!-- Cloud & Infrastructure -->
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" width="45" height="45" alt="Airflow"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F02gceubzd44x42j47y29.png" width="45" height="45" alt="Airflow"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch"/></a>
