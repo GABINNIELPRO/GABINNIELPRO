@@ -55,6 +55,7 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Spark"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/></a>
   <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
