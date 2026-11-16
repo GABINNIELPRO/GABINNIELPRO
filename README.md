@@ -74,12 +74,3 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GABINNIELPRO&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-
-
-
