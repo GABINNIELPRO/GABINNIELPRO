@@ -70,7 +70,3 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/></a>
 </p>
-
-
----
-
